@@ -1,6 +1,6 @@
 [Unit]
-Description=FRP Client Service
-After=network.target
+Description=${stub}
+After=${stub}
 StartLimitIntervalSec=0
 
 [Service]
